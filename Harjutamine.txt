@@ -1,1 +1,2 @@
 GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara.
+Ma saaksin kasutada Githubi prgrameerimiste aluste tunnis, näiteks saan oma koodi copyda ja saveda Githubi. 
